@@ -2,14 +2,6 @@ package boletin_18;
 
 import boletin_18_1.Persoal;
 
-
-
-
-
-/**
- *
- * @author ecollazodominguez
- */
 public class Academica {
     private static int numReferencia = 2018;
     private String nome;
