@@ -3,10 +3,6 @@ package boletin_18_1;
 import boletin_18.Academica;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author ecollazodominguez
- */
 public class Persoal {
 
     private String telefono;
